@@ -1,0 +1,106 @@
+body{
+    background:#050814;
+    color:#ffffff;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.stSidebar {
+    background-color: #0a1220 !important;
+}
+
+.stSidebar [data-testid="stMarkdownContainer"] {
+    color: #ffffff !important;
+}
+
+.stSidebar .stText {
+    color: #ffffff !important;
+}
+
+.stSidebar p, .stSidebar span {
+    color: #ffffff !important;
+}
+
+.main-title{
+    font-size:42px;
+    font-weight:bold;
+    color:#003d82;
+    font-family: "Times New Roman", Times, serif;
+    text-shadow: none;
+    background: transparent;
+    padding: 0;
+    border-radius: 0;
+}
+
+.card{
+    background: rgba(5, 8, 20, 0.98);
+    padding:20px;
+    border-radius:18px;
+    color:#f0f4f8;
+    box-shadow:0 8px 20px rgba(0,0,0,0.6);
+    border: 1px solid rgba(56, 189, 248, 0.2);
+}
+
+.section{
+    background: rgba(10, 18, 32, 0.98);
+    padding:20px;
+    border-radius:18px;
+    margin-top:20px;
+    border: 1px solid rgba(56, 189, 248, 0.15);
+    color:#f0f4f8;
+}
+
+.main-header {
+    font-size: 44px;
+    font-weight: 800;
+    color: #003d82;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    text-shadow: none;
+    background: transparent;
+    padding: 0;
+    border-radius: 0;
+    margin-bottom: 10px;
+}
+
+.sub-header {
+    text-align: center;
+    color: #e0f2fe;
+    margin-bottom: 20px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 700;
+    text-shadow: 0 1px 6px rgba(0, 0, 0, 0.8);
+    background: rgba(10, 18, 32, 0.5);
+    padding: 12px;
+    border-radius: 8px;
+}
+
+.stButton>button {
+    font-family: "Times New Roman", Times, serif;
+    color: #050814 !important;
+    background-color: #38bdf8 !important;
+    font-weight: bold;
+}
+
+input, textarea, select {
+    font-family: "Times New Roman", Times, serif;
+    color: #ffffff !important;
+    background-color: #0a1220 !important;
+    border: 1px solid #38bdf8 !important;
+}
+
+.stMarkdown p, .stMarkdown span, .stText {
+    font-family: "Times New Roman", Times, serif;
+    color: #f0f4f8 !important;
+}
+
+.stSubheader {
+    color: #00ffff !important;
+    font-family: "Times New Roman", Times, serif;
+    text-shadow: 0 1px 8px rgba(0, 0, 0, 0.7);
+}
+
+.stCaption {
+    color: #b0e7ff !important;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.8);
+}
+
